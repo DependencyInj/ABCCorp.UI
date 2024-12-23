@@ -1,0 +1,31 @@
+/* You can add global styles to this file, and also import other style files */
+.text-white{
+    color: white !important;
+}
+
+
+/* Margins */
+
+.m-l {
+    margin-left: 10px !important;
+}
+
+.m-r {
+    margin-left: 10px !important;
+}
+
+.m-l {
+    margin-left: 10px !important;
+}
+
+/* Paddings */
+
+.p-10 {
+    padding: 10px !important;
+}
+
+.p-l-r-10 {
+    padding-right: 10px !important;
+    padding-left: 10px !important;
+
+}

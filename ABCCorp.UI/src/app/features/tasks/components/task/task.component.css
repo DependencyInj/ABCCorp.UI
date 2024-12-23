@@ -1,0 +1,5 @@
+.task-button-list{
+    display: flex !important;
+    justify-content: center !important;
+    width: 400px;
+}

@@ -1,0 +1,56 @@
+.tile-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
+    width: 90%;
+    max-width: 400px;
+  }
+
+  /* Individual tile */
+  .tile {
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.06);
+    transition: transform 0.2s, box-shadow 0.2s;
+    padding: 20px;
+    text-align: center;
+  }
+
+  /* Tile hover effect */
+  .tile:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15), 0 2px 4px rgba(0, 0, 0, 0.12);
+  }
+
+  /* Tile content styles */
+  .tile h3 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+
+  .tile p {
+    font-size: 1rem;
+    color: #666;
+    line-height: 1.5;
+  }
+
+  /* Tile button */
+  .tile .btn {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s;
+  }
+
+  .tile .btn:hover {
+    background-color: #0056b3;
+  }

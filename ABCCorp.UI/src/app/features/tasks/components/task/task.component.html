@@ -1,0 +1,8 @@
+
+   
+   <div *ngFor="let task of taskList">
+    <app-tile [tile]="task" ></app-tile>
+    <div class="task-button-list">
+      <button (click)="markAsCompleted(task.task_id)" >Mark As Completed</button>
+    </div>
+   </div>

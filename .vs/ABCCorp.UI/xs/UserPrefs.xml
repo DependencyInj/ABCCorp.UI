@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{3B0EEBC3-F40F-4F91-9BD1-128DBB924A6F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ABCCorp.UI/Properties/launchSettings.json">
+    <Files>
+      <File FileName="ABCCorp.UI/Program.cs" Line="27" Column="1" />
+      <File FileName="ABCCorp.UI/Properties/launchSettings.json" Line="14" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ABCCorp.UI" expanded="True">
+            <Node name="ABCCorp.UI" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ABCCorp.UI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
